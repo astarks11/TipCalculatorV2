@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="greeting">Tip Calculator</string>
+    <string name="button">Calculate Tip</string>
+    <string name="enterBill">Enter Total</string>
+    <string name="totalPrompt">Total</string>
+    <string name="enterTip">%</string>
+    <string name="total"></string>
+
+
+</resources>
